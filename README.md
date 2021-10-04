@@ -1,9 +1,14 @@
 ### Bem vindo 👋, meu nome é Antonio Eduardo 😁 (Welcome 👋, my name is Antonio Eduardo 😁)
 
-- 🔭 Atualmente trabalhando como front-end e back-end. (🔭 Currently working as front-end and back-end)
-- 🌱 Estou estudando API REST e React Native. (🌱 I'm studying REST API and React Native)
-- 💬 Interessado em novas soluções e tecnologias. (💬 Interested in new solutions and technologies)
-- 📫 Contate-me em (contact me at): antonio.eduardo.andrade08@aluno.ifce.edu.br.
+- 🔭 Currently working as front-end and back-end.
+- 🌱 I'm studying REST API and React.
+- 💬 Interested in new solutions and technologies
+- 📫 Contact me at: antonio.eduardo.andrade08@aluno.ifce.edu.br.
+
+- 🔭 Atualmente trabalhando como front-end e back-end.
+- 🌱 Estou estudando API REST e React.
+- 💬 Interessado em novas soluções e tecnologias.
+- 📫 Contate-me em: antonio.eduardo.andrade08@aluno.ifce.edu.br.
 
 <div>
   <a href="https://github.com/AntonioEduardo-Dev">
