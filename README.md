@@ -1,14 +1,20 @@
-### Bem vindo 👋, meu nome é Antonio Eduardo 😁 (Welcome 👋, my name is Antonio Eduardo 😁)
+###  Welcome 👋, my name is Antonio Eduardo (Bem vindo 👋, meu nome é Antonio Eduardo)
+
+##
 
 - 🔭 Currently working as front-end and back-end.
 - 🌱 I'm studying REST API and React.
 - 💬 Interested in new solutions and technologies
 - 📫 Contact me at: antonio.eduardo.andrade08@aluno.ifce.edu.br.
 
+##
+
 - 🔭 Atualmente trabalhando como front-end e back-end.
 - 🌱 Estou estudando API REST e React.
 - 💬 Interessado em novas soluções e tecnologias.
 - 📫 Contate-me em: antonio.eduardo.andrade08@aluno.ifce.edu.br.
+
+###
 
 <div>
   <a href="https://github.com/AntonioEduardo-Dev">
@@ -24,18 +30,11 @@
   <img align="center" alt="Eduardo-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Eduardo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Eduardo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<!--   <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-<!--   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
   
-  ##
+##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCYusUxITQ7xQtyyYtFcEAog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<!--   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--  	<a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/$Edu#4448" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:antonio.eduardo.andrade08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!--   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
- 
+    <a href="https://www.youtube.com/channel/UCYusUxITQ7xQtyyYtFcEAog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href = "mailto:antonio.eduardo.andrade08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
