@@ -35,6 +35,6 @@
 ##
  
 <div> 
-    <a href="https://www.youtube.com/channel/UCYusUxITQ7xQtyyYtFcEAog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.antonioeduardodev2021.000webhostapp.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" target="_blank"></a>
     <a href = "mailto:antonio.eduardo.andrade08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
