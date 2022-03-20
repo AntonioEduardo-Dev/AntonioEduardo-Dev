@@ -3,14 +3,14 @@
 ##
 
 - 🔭 Currently working as front-end and back-end.
-- 🌱 I'm studying Laravel.
+- 🌱 I'm studying Laravel and React.
 - 💬 Interested in new solutions and technologies
 - 📫 Contact me at: antonio.eduardo.andrade08@aluno.ifce.edu.br.
 
 ##
 
 - 🔭 Atualmente trabalhando como front-end e back-end.
-- 🌱 Estou estudando Laravel.
+- 🌱 Estou estudando Laravel e React.
 - 💬 Interessado em novas soluções e tecnologias.
 - 📫 Contate-me em: antonio.eduardo.andrade08@aluno.ifce.edu.br.
 
