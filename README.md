@@ -36,5 +36,5 @@
  
 <div> 
     <a href="https://antonioeduardodev2021.000webhostapp.com/"><img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" target="_blank"></a>
-    <a href = "mailto:antonio.eduardo.andrade08@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:antonio.eduardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
