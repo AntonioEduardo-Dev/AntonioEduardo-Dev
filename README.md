@@ -3,14 +3,14 @@
 ##
 
 - 🔭 Currently working as front-end and back-end.
-- 🌱 I'm studying Laravel and React.
+- 🌱 I'm studying NodeJs and React.
 - 💬 Interested in new solutions and technologies
 - 📫 Contact me at: antonio.eduardo.dev@gmail.com.
 
 ##
 
 - 🔭 Atualmente trabalhando como front-end e back-end.
-- 🌱 Estou estudando Laravel e React.
+- 🌱 Estou estudando NodeJs e React.
 - 💬 Interessado em novas soluções e tecnologias.
 - 📫 Contate-me em: antonio.eduardo.dev@gmail.com.
 
