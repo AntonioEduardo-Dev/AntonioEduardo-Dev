@@ -16,12 +16,6 @@
 
 ###
 
-<div>
-  <a href="https://github.com/AntonioEduardo-Dev">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AntonioEduardo-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioEduardo-Dev&layout=compact&langs_count=6&theme=dark"/>
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,6 +29,6 @@
 ##
  
 <div> 
-    <a href="https://antonioeduardodev2021.000webhostapp.com/"><img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" target="_blank"></a>
+    <a href="https://portifolio-2023-rho.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" target="_blank"></a>
     <a href = "mailto:antonio.eduardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
