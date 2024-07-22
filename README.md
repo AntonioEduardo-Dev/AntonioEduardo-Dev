@@ -1,4 +1,4 @@
-<h2 align="center">Welcome 👋, my name is Antonio Eduardo (Bem vindo 👋, meu nome é Antonio Eduardo)</h2>
+<h2 align="center">Welcome 👋, my name is Antonio Eduardo <br> (Bem vindo 👋, meu nome é Antonio Eduardo)</h2>
 
 ###
 
