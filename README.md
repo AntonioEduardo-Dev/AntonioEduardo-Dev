@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="120" src="https://avatars.githubusercontent.com/u/56364149?v=4"  />
+<img align="left" height="120" src="https://avatars.githubusercontent.com/u/56364149?s=400&u=ad68440ce65922f03dfdf928fc7a1cf2e7a05766&v=4" style="border-radius: 50%;" />
 
 ###
 
@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/antonio-eduardo-desenvolvedor/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://portifolio-2023-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" height="35" target="_blank">
+  <a href="https://portifolio-2023-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" height="35">
   </a>
 </div>
