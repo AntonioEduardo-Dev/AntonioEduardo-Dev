@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="180" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdldW5wcnVkdWRubmZkdXJvN3RlaDJ0dWt0ZmJjMzc5b2pzemZwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-###
-
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
