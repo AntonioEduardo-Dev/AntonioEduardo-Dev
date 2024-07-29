@@ -27,6 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+<hr>
 
 ###
 
@@ -63,6 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
+<hr>
 
 ###
 
@@ -71,6 +73,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
+<hr>
 
 ###
 
@@ -84,4 +87,11 @@
   <a href="https://portifolio-2023-rho.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" height="35">
   </a>
+</div>
+<hr>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioEduardo-Dev&layout=compact" alt="Ranking Languages">
 </div>
