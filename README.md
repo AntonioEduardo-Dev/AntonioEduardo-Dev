@@ -92,6 +92,6 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioEduardo-Dev&layout=compact" alt="Ranking Languages">
 </div>
