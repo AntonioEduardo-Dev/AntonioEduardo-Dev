@@ -84,7 +84,7 @@
   <a href="https://www.linkedin.com/in/antonio-eduardo-desenvolvedor/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://portifolio-2023-rho.vercel.app/" target="_blank">
+  <a href="https://portifolio-aedev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-%23333?style=for-the-badge&logo=WEBSITE&logoColor=white" height="35">
   </a>
 </div>
